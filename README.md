@@ -1,2 +1,2 @@
 # Relevance-Based-Embeddings-Lightweight-Candidate-Selection
-Relevance-Based Embeddings: Lightweight Candidate Selection via Heavy Ranker Calls
+Code and data for Relevance-Based Embeddings: Lightweight Candidate Selection via Heavy Ranker Calls (yet to be added)
